@@ -15,5 +15,8 @@ will begin with the explanation of the overarching Bayesian philosophy, followed
 
 
 
-## Part II - [Elizaveta Semenova](https://elizaveta-semenova.com/), [Maria han Veiga]()
+## Part II - [Elizaveta Semenova](https://elizaveta-semenova.com/), [Maria han Veiga](https://hanveiga.com)
 will explain what probabilistic programming languages are in the modern landscape, and  demonstrate abilities of one of such easy-to-use software packages. This “black box” approach will equip participants with a tool allowing them to focus on the scientific problem of interest, while inference is being taken care of by the inference engine. We will show how to use Python libraries to perform exact Bayesian inference (using Markov Chain Monte Carlo technique) as well as approximate techniques (such as variational inference).
+
+Google colab notebook: [here](https://colab.research.google.com/drive/1HnOkm5vYTm4QCJ5YKBLwgLowI7ZzdI6y?usp=sharing)
+Make a copy in your drive!

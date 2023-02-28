@@ -22,5 +22,5 @@ Google colab notebook: [here](https://colab.research.google.com/drive/1HnOkm5vYT
 Make a copy in your drive!
 
 ## Literature:
-[Metropolis Hastings algorithm](https://arxiv.org/pdf/1504.01896.pdf)
+[Metropolis Hastings algorithm](https://arxiv.org/pdf/1504.01896.pdf)    
 [Intro to Variational Inference](https://arxiv.org/abs/2108.13083)

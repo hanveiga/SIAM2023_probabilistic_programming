@@ -1,4 +1,4 @@
-# SIAM2023_probabilistic_programming
+# SIAM2023 Probabilistic Programming
 
 # Bayesian Scientific Computing and Probabilistic Programming: inside and outside the “black box” 
 

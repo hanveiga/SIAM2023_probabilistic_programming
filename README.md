@@ -1,6 +1,4 @@
-# SIAM2023 Probabilistic Programming
-
-# Bayesian Scientific Computing and Probabilistic Programming: inside and outside the “black box” 
+# SIAM2023 Bayesian Scientific Computing and Probabilistic Programming: inside and outside the “black box” 
 
 Bayesian methods are increasingly important in scientific computing where uncertainties and incomplete information play a role. This mini-tutorial will walk participants through the basic probabilistic concepts to give the understanding of how inverse problems and parameter estimation problems can be recast in the form of Bayesian inference, as well as equip them with hands-on tools for tackling such problems. The minitutorial will consist of two parts.
 
